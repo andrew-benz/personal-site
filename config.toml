@@ -1,0 +1,59 @@
+## Basic Configuration
+
+baseurl = "https://andrew-benz.github.io"
+builddrafts = false
+canonifyurls = false
+languageCode = "en-US"
+
+contentdir = "content"
+layoutdir = "layouts"
+publishdir = "public"
+
+author = "Andrew Benz"
+title = "Andrew Benz"
+
+theme = "hugo-goa"
+
+## Hugo Built-in Features
+enableRobotsTXT = true
+
+## Site Settings
+[params]
+author = "Andrew Benz"
+description = "I'm a student at Yale pursuing an BS/MS degree in math.  My interests lie in high-dimensional data analysis and manifold learning, with a focus on biological data."
+authorimage = "headshot.jpg"
+dateformat = "Jan 2, 2006"
+
+## Site Meta Settings
+[params.meta]
+description = "I'm a student at Yale pursuing an BS/MS degree in math.  My interests lie in high-dimensional data analysis and manifold learning, with a focus on biological data."
+keywords = "manifold,math,biology,research,student"
+
+## Social Accounts
+[params.social]
+github = "andrew-benz"
+email = "andrewjbenz@gmail.com"
+
+## Extras
+[params.extra]
+copyright = "© 2021. Andrew Benz. [Some Rights Reserved](http://creativecommons.org/licenses/by/3.0/)."
+poweredby = true
+highlightjs = true
+socialmarkup = true
+
+## Main Menu
+# [[menu.main]]
+#     name = "blog"
+#     weight = 100
+#     identifier = "blog"
+#     url = "/blog/"
+# [[menu.main]]
+#     name = "about"
+#     identifier = "about"
+#     weight = 200
+#     url = "/about/"
+# [[menu.main]]
+#     name = "coderag"
+#     identifier = "coderag"
+#     weight = 300
+#     url = "/coderag/"
