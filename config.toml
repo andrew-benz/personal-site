@@ -20,13 +20,13 @@ enableRobotsTXT = true
 ## Site Settings
 [params]
 author = "Andrew Benz"
-description = "I'm a student at Yale pursuing an BS/MS degree in math.  My interests lie in high-dimensional data analysis and manifold learning, with a focus on biological data."
+description = "I'm a student at Yale pursuing a combined BS/MS degree in math.  My interests lie in high-dimensional data analysis and manifold learning, with a focus on biological data."
 authorimage = "headshot.jpg"
 dateformat = "Jan 2, 2006"
 
 ## Site Meta Settings
 [params.meta]
-description = "I'm a student at Yale pursuing an BS/MS degree in math.  My interests lie in high-dimensional data analysis and manifold learning, with a focus on biological data."
+description = "I'm a student at Yale pursuing a combined BS/MS degree in math.  My interests lie in high-dimensional data analysis and manifold learning, with a focus on biological data."
 keywords = "manifold,math,biology,research,student"
 
 ## Social Accounts
